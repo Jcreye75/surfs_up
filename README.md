@@ -34,5 +34,10 @@ This new assignment consists of two technical analysis deliverables and a writte
 ![Dec_Precip_Hist](https://github.com/Jcreye75/surfs_up/blob/2c49b07e099bbe69d5e0cc890fcbe3a7df3a83d6/Resources/Dec_Precip_Hist.png)
 
 ## Summary:
-XXXXXXXXX.
+Per the information obtained and presented previously:
+- Temperature comparison between June and December, both months show means quite close (June 74.94 & Dec 71.04)
+- Precipitation comparison between June and December also shows means quite close (June 0.13 & Dec 0.21)
+- Historical Precipitation shows for both similar trends and means, except for three outstanding dates in December where December reached 4, 5, 6 values (isolated events) vs June where only one outstanding event in 4.
 
+## Conclusion and Proposal
+Both seasons shows similar weather, so data supports that a surf and ice cream shop business are both sustainable year-round.
